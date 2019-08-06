@@ -23,23 +23,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/matisse3g/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/matisse3g/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/samsung/matisse3g/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/matisse3g/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/matisse3g/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/matisse3g/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/matisse3g/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/matisse3g/proprietary/lib/hw/vibrator.default.so:lib/hw/vibrator.default.so \
     vendor/samsung/matisse3g/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/matisse3g/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/samsung/matisse3g/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
-    vendor/samsung/matisse3g/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/matisse3g/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/matisse3g/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so
